@@ -4,7 +4,7 @@
 * Firebase authentication
 * Google authentication
 #### System setup
-1. Clone the repo with `git clone https://github.com/Eliraas1/BarcodeApp.git` command
+1. Clone the repo with `git clone https://github.com/omeratt/Expo-Membership-Cards-App.git` command
 2. Switch to the project's root directory in terminal
 3. Install the dependencies by running `npm install`
 4. Once, 'npm install' is completed, run `exp start` to start the expo and react-native server
