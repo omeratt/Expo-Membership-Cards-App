@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Barcode",
+    "slug": "Barcode",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/momentum-labs.png",
+    "splash": {
+      "image": "./assets/MomentLogo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "googleServicesFile": "./GoogleService-Info.plist"
+    },
+    "android": {
+      "googleServicesFile": "./google-services.json",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+
+      "package": "host.exp.exponent"
+    },
+    "plugins": ["@react-native-google-signin/google-signin"],
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
