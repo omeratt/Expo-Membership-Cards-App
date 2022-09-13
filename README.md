@@ -1,2 +1,4 @@
 # Expo-Membership-Cards-App
-React-Native Application for scanning and concentrate membership-cards and points  
+## React-Native Application for scanning and concentrate membership-cards and points  
+* using React Animations and Lottie Files
+* FireBase Back-end
